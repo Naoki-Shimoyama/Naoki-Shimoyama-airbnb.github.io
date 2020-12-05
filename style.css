@@ -1170,6 +1170,7 @@ footer .content-wrapper .footer-end ul .footer-list-3 {
   }
   .safety .content-wrapper .safety-text a {
     width: 224px;
+    text-align: center;
   }
   .safety-list .content-wrapper .safety-header {
     text-align: left;
